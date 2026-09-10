@@ -1,16 +1,19 @@
 # Nagar Prakash — Press Credential
 
-Official digital press card page for **Nagar Prakash** (मराठी साप्ताहिक | Digital News).
+Official digital press card for **Nagar Prakash** (मराठी साप्ताहिक | Digital News)
 
-**Live page:** https://gltichhhhhh-101.github.io/nagar-prakash-press-card/
+## Live Page
 
-This is a single-page credential designed for QR code scanning.
+**https://gltichhhhhh-101.github.io/nagar-prakash-press-card/**
 
-## Features
-- Official logo and registration details
-- Card guidelines
-- One-tap Call, Maps & Website buttons
-- Mobile-optimized design
+### Enable GitHub Pages (required – 30 seconds)
+1. Open: https://github.com/Gltichhhhhh-101/nagar-prakash-press-card/settings/pages
+2. Under **Source** → choose **Deploy from a branch**
+3. Branch: **main**   |   Folder: **/ (root)**
+4. Click **Save**
 
----
-© Nagar Prakash
+Wait 1–2 minutes, then open the live link above.
+
+## Files
+- `index.html` – Main page (logo + buttons working)
+- `logo.jpeg` – Official logo
